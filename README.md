@@ -35,4 +35,4 @@ E-mail: tchitnis@bwh.harvard.edu
 
 # Overview
 ### Postmortem brain single nucleus RNA-sequencing
-Scripts are included in the directory "snrna"
+Scripts are included in the subdirectory [snrna](snrna/)
