@@ -36,3 +36,6 @@ E-mail: tchitnis@bwh.harvard.edu
 # Overview
 ### Postmortem brain single nucleus RNA-sequencing
 Scripts for generating all figures are included in the subdirectory [snrna](snrna/)
+
+### Bulk RNA-seq
+Scripts for the analysis of bulk RNA-seq are included in the subdirectory [bulk_rna](bulk_rna/)
